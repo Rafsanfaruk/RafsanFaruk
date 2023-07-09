@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/567523990538356835/)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm MD.Omar Faruk</h1>
 <h3 align="center">A passionate Front-end web development from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/142a387e9ea9c079bc72e3a62fd3fc48.gif">
